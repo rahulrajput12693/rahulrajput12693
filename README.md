@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulrajput12693
+- 👋 Hi, I’m RAHUL RAJPUT
 - 👀 I’m interested in Android and Web Development
 - 🌱 I’m currently learning in B Tech CSE
 - 💞️ I’m looking to collaborate on ...
